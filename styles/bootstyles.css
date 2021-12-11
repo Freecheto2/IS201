@@ -1,0 +1,122 @@
+/*Joshua Jackson 12/11/2021*/
+
+.standard{
+    border: rgb(32, 39, 70) thick solid; 
+    position:absolute;
+    border-width: 5px;
+    background-color: rgb(73, 73, 73);
+
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    
+}
+
+.t1{
+    top: 115px;
+    left: 30px;
+    width: 650px;
+    
+}
+.t1d{
+    top:625px;
+    left: 30px;
+    width:650px;
+    border: solid rgb(29, 0, 190);
+    border-width: 2px;
+    color: white;
+    text-align: center;
+}
+
+.t2{
+    top: 115px;
+    right: 30px;
+    width: 650px;
+    
+}
+.t2d{
+    top:625px;
+    right: 30px;
+    width:650px;
+    border: solid rgb(29, 0, 190);
+    border-width: 2px;
+    color: white;
+    text-align: center;
+}
+
+.t3{
+    top: 650px;
+    left: 30px;
+    width: 650px;
+}
+.t3d{
+    top: 1170px;
+    right: 30px;
+    width:650px;
+    border: solid rgb(29, 0, 190);
+    border-width: 2px;
+    color: white;
+    text-align: center;
+}
+
+.t4{
+    top: 650px;
+    right: 30px;
+    width: 650px;
+}
+.t4d{
+    top: 1170px;
+    left: 30px;
+    width:650px;
+    border: solid rgb(29, 0, 190);
+    border-width: 2px;
+    color: white;
+    text-align: center;
+}
+
+.footer{
+    left: 5px;
+    right: 5px;
+    top: 1200px;
+    bottom: 10px;
+    height: 200px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+
+
+}
+
+h5{
+    color: white;
+    text-align: center;
+}
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    
+}
+a:hover{
+    color: rgb(116, 137, 255);
+    text-decoration:underline ;
+}
+
+.title{
+    font-size: 40px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+}
+
+h3{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
